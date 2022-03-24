@@ -4,5 +4,6 @@ Los ejercicios agregados a este repositorio corresponden al capitulo 5 y 6 del l
 
 Ejercicios resultos por:
 
-Nombre: Luis Carlos Garcia Pedraza \n
+Nombre: Luis Carlos Garcia Pedraza
+
 No.Control: 19211645
